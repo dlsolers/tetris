@@ -6,7 +6,7 @@
   width: 4px;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #C2FFAE;
+  background-color: #FFBF00;
 }
 body {
   margin: 0;
@@ -14,7 +14,7 @@ body {
 body, a, input, button {
   background-color:#000000;
   border:none;
-  color:#C2FFAE;
+  color:#FFBF00;
   font-family: 'DejaVuSansMono', monospace;
   font-size:12px;
   line-height: 1.2;
@@ -33,7 +33,7 @@ button, input {
   text-transform: uppercase;
 }
 input {
-  border-bottom: 1px solid #C2FFAE;
+  border-bottom: 1px solid #FFBF00;
   width:80px;
 }
 #loading {
@@ -60,7 +60,7 @@ input {
 }
 #leaderboard, #userboard {
   background-color: #000000;
-  border: 1px solid #C2FFAE;
+  border: 1px solid #FFBF00;
   display: none;
   padding: 40px 30px 20px;
   z-index: 1;
